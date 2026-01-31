@@ -58,8 +58,8 @@ Before running the tests, ensure the following are installed on your system:
 Follow the steps below to set up the project locally:
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd <project-folder-name>
+git clone <https://github.com/Malmi9306/ITPM-Assignment01>
+cd <IT23819306>
 npm install
 npx playwright install
 ```
